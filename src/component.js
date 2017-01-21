@@ -1,7 +1,6 @@
 'use strict';
 
 var React = require('react'),
-	ReactDOM = require('react-dom'),
 	QuillToolbar = require('./toolbar'),
 	QuillMixin = require('./mixin'),
 	T = React.PropTypes;
